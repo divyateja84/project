@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Product Name</h1>
+        <p>A brief description of the product.</p>
+    </header>
+
+    <div class="container">
+        <div class="product-image">
+            <img src="product-image.jpg" alt="Product Image">
+        </div>
+        <div class="product-details">
+            <h2>Product Features</h2>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+                <li>Feature 4</li>
+            </ul>
+            <a href="#" class="btn">Buy Now</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Your Company Name</p>
+    </footer>
+</body>
+</html>
